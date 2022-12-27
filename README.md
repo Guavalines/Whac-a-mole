@@ -1,7 +1,7 @@
 # WHAC-A-MOLE
 
 #### Highlights
-
+- Used Mathfloor() and Math.random()
 
 ### Versions
 
