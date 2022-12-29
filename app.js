@@ -9,4 +9,9 @@ function randomSquare() {
   squares.forEach(square => {
     square.classList.remove('mole')
   })
+
+  let randomSquare = squares[Math.floor(Math.random() * 9)]
+  randomSquare.classList.add('mole')
 }
+
+randomSquare()
