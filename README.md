@@ -1,6 +1,6 @@
 # WHAC-A-MOLE
 
-Check it out here: [Whac-a-mole](https://guavalines.github.io/Whac-a-mole/)
+Check it out here: [Whac-A-Mole](https://guavalines.github.io/Whac-a-mole/)
 
 #### Highlights
 - Used Mathfloor() and Math.random()
