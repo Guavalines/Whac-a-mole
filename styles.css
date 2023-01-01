@@ -4,9 +4,9 @@
   display: flex;
   flex-wrap: wrap;
   margin: auto;
-  padding: 10px;
   text-align: center;
   border-radius: 10px;
+  border: solid black 3px;
 }
 
 .square {
