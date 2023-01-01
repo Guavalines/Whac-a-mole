@@ -35,3 +35,12 @@ h1 {
   margin: auto;
   border-radius: 10px;
 }
+
+#logistics {
+  display: flex;
+  margin: auto;
+  text-align: center;
+  width: 40%;
+  display: flex;
+  justify-content: space-between;
+}
