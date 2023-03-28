@@ -51,3 +51,7 @@ h1 {
   display: flex;
   justify-content: space-between;
 }
+
+body {
+  background-color: rgb(229, 211, 211);
+}
