@@ -1,7 +1,7 @@
 # [WHAC-A-MOLE](https://guavalines.github.io/Whac-a-mole/) ☜ play here
 
 # Description
-Whac-A-Mole has players use a mallet to hit plastic moles that pop up randomly from holes in a flat board, earning points within a time limit. Different colored moles give bonus points, and some may have different behaviors.
+Whac-A-Mole has players hit moles that pop up randomly from holes, earning points within a time limit. 🦫
 
 # Features
 - querySelector
